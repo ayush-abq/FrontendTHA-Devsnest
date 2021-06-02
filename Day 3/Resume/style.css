@@ -1,0 +1,28 @@
+*{
+    margin: 10px;
+    padding: 0;
+}
+.container{
+    margin: 0px auto;
+    width: 700px;
+    height: auto;
+    border: solid black;
+    padding: 25px;
+}
+
+.container h1{
+    text-align: center;
+}
+p{
+    font-size: 22px;
+}
+.border{
+    padding: 5px;
+    background-color: gray;
+    border: 1px solid black;
+    font-weight: bold;
+}
+ul{
+    font-size: 20px;
+    margin-left: 50px;
+}
