@@ -1,0 +1,29 @@
+.checkout{
+    display: block;
+    padding: 20px;
+    background-color: white;
+    height: max-content;
+    justify-content: center;
+}
+.bannerad{
+    display: flex;
+}
+
+.yourorder-subtotal{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.checkout__ad {
+    width: 100%;
+    margin-bottom: 10px;
+    display: i;
+  }
+
+.checkoutTitle{
+    margin-right: 10px;
+    padding: 10px;
+    border-bottom: 1px solid lightgray;
+    
+}
